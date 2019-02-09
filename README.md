@@ -11,3 +11,6 @@ You can run this code with any Java IDE. I used NetBeans.
 * 4)You can pop and push one candy at a time. You can push the candy to any other stack.
 * 5)You can't pop and push a candy to the same stack. (e.g. Popping from Stack 1 and pushing to Stack 1 won't work.)
 * 6)Next candy will always be added to the first stack.
+
+## Goal of the Game
+Your goal is to crush as many candies as you can before the game ends. You'll earn 8 points for crushing 3 candies and 36 points for crushing 3 candies more than once simultaneously.
