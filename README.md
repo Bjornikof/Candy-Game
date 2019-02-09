@@ -2,7 +2,7 @@
 This is a candy game project that I was asked to do during "Data Structures and Algorithms" course.
 
 ## How to Run?
-You can run this code in any Java IDE. I used NetBeans.
+You can run this code with any Java IDE. I used NetBeans.
 
 ## Rules
 * 1)You can crush candies only within the same stack.
